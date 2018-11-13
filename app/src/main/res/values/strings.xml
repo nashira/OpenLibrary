@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenLibrary</string>
+    <string name="menu_search">Search</string>
+    <string name="title_search">Search</string>
+</resources>
